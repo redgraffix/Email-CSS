@@ -1,0 +1,20 @@
+
+ <meta name="viewport" content="width=device-width, initial-scale=1" />
+<style type="text/css">
+html, img, td, tr, table, a {margin: 0px auto;padding: 0px;border: none;border-collapse: collapse;border-spacing: 0px;}
+html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
+body { width:100%; margin:0 auto; padding:0; }
+.ReadMsgBody {width: 100%;}
+.ExternalClass {width: 100%;}
+/* Hotmail symbol fix */
+.symbolfix img {width:10px;height:10px;}
+/* remove table spacing in outlook */
+table {border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;}
+/* yahoo and hotmail paragraph fix */ 
+p {margin: 1em 0;}
+</style>
+<!--End style-->
+
+<!--don't forget to close the head tag-->
+
+<body style="margin:0px;padding:0px; text-align:center; background-color:#FFF; -webkit-text-size-adjust:none;">
