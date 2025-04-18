@@ -1,20 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light only" />
+    <meta name="supported-color-schemes" content="light" />
+    <meta name="description" content="Lorem Ipsum" />
+    <title>Lorem Ipsum</title>
+    <style type="text/css">
+      html,
+      img,
+      td,
+      tr,
+      table,
+      a {
+        margin: 0px auto;
+        padding: 0px;
+        border: none;
+        border-collapse: collapse;
+        border-spacing: 0px;
+        mso-line-height-rule: exactly;
+      }
 
- <meta name="viewport" content="width=device-width, initial-scale=1" />
-<style type="text/css">
-html, img, td, tr, table, a {margin: 0px auto;padding: 0px;border: none;border-collapse: collapse;border-spacing: 0px;}
-html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
-body { width:100%; margin:0 auto; padding:0; }
-.ReadMsgBody {width: 100%;}
-.ExternalClass {width: 100%;}
-/* Hotmail symbol fix */
-.symbolfix img {width:10px;height:10px;}
-/* remove table spacing in outlook */
-table {border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;}
-/* yahoo and hotmail paragraph fix */ 
-p {margin: 1em 0;}
-</style>
-<!--End style-->
+      html {
+        -webkit-text-size-adjust: none;
+        -ms-text-size-adjust: none;
+      }
 
-<!--don't forget to close the head tag-->
+      body {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+      }
 
-<body style="margin:0px;padding:0px; text-align:center; background-color:#FFF; -webkit-text-size-adjust:none;">
+      .ReadMsgBody {
+        width: 100%;
+      }
+
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td {
+        line-height: 100%;
+      }
+
+      .ExternalClass {
+        width: 100%;
+      }
+
+      /* Hotmail symbol fix */
+      .symbolfix img {
+        width: 10px;
+        height: 10px;
+      }
+
+      /* remove table spacing in outlook */
+      table {
+        border-collapse: collapse;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+
+      /* yahoo and hotmail paragraph fix */
+      p {
+        margin: 1em 0;
+      }
+    </style>
+    <!--[if (gte mso 9)|(IE)]>
+		<style type="text/css">
+                body {
+                    background-color: #FFFFFF!important;
+                }
+                table {
+                    border-collapse: collapse;
+                    border-spacing: 0;
+                    mso-table-lspace: 0pt!important;
+                    mso-table-rspace: 0pt!important;
+                }
+            </style>
+		<![endif]-->
+  </head>
+  <body style="margin:0px;padding:0px; text-align:center; background-color:#FFF; -webkit-text-size-adjust:none;"></body>
+</html>
